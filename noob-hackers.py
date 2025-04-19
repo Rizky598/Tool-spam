@@ -25,34 +25,41 @@ def load(word):
                 print(char,end="")
                 sys.stdout.flush()
                 time.sleep(0.02)
-load(f"{RR} ⣴⣾⣿⣿⣿⣿⣷⣦/n")/load(f"{WW}1: nama pengembang Rizki\n")
-load(f"{RR} ⣿⣿⣿⣿⣿⣿⣿⣿/n")/load(f"{WW}2: nomor WhatsApp saya 083850540570\n")
-load(f"{RR} ⡟⠛⠽⣿⣿⠯⠛⢻/n")/load(f"{WW}3: akun Instagram saya rizky.0_o/n\n")
+load(f"{RR} ⣴⣾⣿⣿⣿⣿⣷⣦/n")
+load(f"{RR} ⣿⣿⣿⣿⣿⣿⣿⣿/n")
+load(f"{RR} ⡟⠛⠽⣿⣿⠯⠛⢻/n")
 load(f"{RR} ⣧°⣀⡾⢷⣀°⣼\n")
 load(f"{RR}  ⡏⢽⢴⡦⡯⢹ \n")
 load(f"{RR}  ⠙⢮⣙⣋⡵⠋/n/n")
 
+load(f"{WW}====================================\n")
+load(f"{WW}1: nama pengembang Rizki\n")
+load(f"{WW}2: nomor WhatsApp saya 083850540570\n")
+load(f"{WW}3: akun Instagram saya rizky.0_o/n")
+load(f"{WW}====================================\n\n")
 
+load(f"{WW}===============================\n")
 print(f"{GG}[1]:WhatsApp spam")
 print(f"{WW} :spam OTP WhatsApp🎯\n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[2]:WhatsApp spam")
 print(f"{WW}🍑:spam fairing WhatsApp😈\n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[3]:WhatsApp spam")
 print(f"🍑{WW}:spampasangan WhatsApp🤣/n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[4]:informasi website")
 print(f"{WW}🍑:tools pemblokir website👁️/n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[5]  (0)")
 print(f"{WW} 😔   ?\n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[6]  (0)")
 print(f"{WW} 😔   ?\n")
-
+load(f"{WW}===============================\n")
 print(f"{GG}[7]  (0)")
-print(f"{WW} 😔   ?\n")
+print(f"{WW} 😔   ?\n\n")
+load(f"{WW}===============================\n")
 u_choice=int(input(f"{GG} masukkan pilihan kamu Bray😁>_ "))
 
 if u_choice==1:
