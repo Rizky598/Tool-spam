@@ -27,72 +27,90 @@ def load(word):
                 time.sleep(0.02)
 load(f"{GG} ⣴⣾⣿⣿⣿⣿⣷⣦\n")
 load(f"{RR} ⣿⣿⣿⣿⣿⣿⣿⣿\n")
-load(f"{WW} ⡟⠛⠽⣿⣿⠯⠛⢻\n")
-load(f"{BB} ⣧°⣀⡾⢷⣀°⣼\n")
-load(f"{CC}  ⡏⢽⢴⡦⡯⢹ 
- ⠙⢮⣙⣋⡵⠋\n\n")
+load(f"{RR} ⡟⠛⠽⣿⣿⠯⠛⢻\n")
+load(f"{RR} ⣧°⣀⡾⢷⣀°⣼\n")
+load(f"{RR}  ⡏⢽⢴⡦⡯⢹ \n")
+load(f"{RR}  ⠙⢮⣙⣋⡵⠋/n/n")
 
+print(f"{GG}@Rizky.088")
+print(f"{GG}Enter your choice\n\n")
 
-print(f"{CC}@Rizky.088")
-print(f"{RR}Enter your choice\n\n")
+print(f"{GG}[1]:WhatsApp spam")
+print(f"{WW} :spam OTP WhatsApp🎯\n")
 
-print(f"{BB}[1]  WhatsApp spam")
-print(f"{WW}🔰   spam OTP WhatsApp\n")
+print(f"{BB}[2]:WhatsApp spam")
+print(f"{WW}🍑:spam fairing WhatsApp😈\n")
 
-print(f"{BB}[2]  WhatsApp spam")
-print(f"{WW}🔰   spam fairing WhatsApp\n")
+print(f"{BB}[3]:WhatsApp spam")
+print(f"🍑{WW}:spampasangan WhatsApp🤣/n")
 
-print(f"{BB}[3]  WhatsApp spam")
-print(f"🔰{WW}   spampasangan WhatsApp/n")
-
-print(f"{BB}[4]  informasi website")
-print(f"{WW}🔰   tools pemblokir website/n")
+print(f"{BB}[4]:informasi website")
+print(f"{WW}🍑:tools pemblokir website👁️/n")
 
 print(f"{BB}[5]  (0)")
-print(f"{WW}🔰   ?\n")
+print(f"{WW} 😔   ?\n")
 
 print(f"{BB}[6]  (0)")
-print(f"{WW}🔰   ?\n")
+print(f"{WW} 😔   ?\n")
 
 print(f"{BB}[7]  (0)")
-print(f"{WW}🔰   ?\n")
-u_choice=int(input(f"{CC}Choose a number you want >_ "))
+print(f"{WW} 😔   ?\n")
+u_choice=int(input(f"{GG} masukkan pilihan kamu Bray😁>_ "))
 
 if u_choice==1:
 
      os.system("clear")
      load(f"{RR}Please wait installing Vanish tool....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/vanish")
+     os.system("pkg update && pkg upgrade -y
+pkg install git -y
+pkg instal php -y
+git clone https://github.com/Rizky598/Spam-WhatsApp
+cd Spam-WhatsApp
+php pam.php")
 
 elif u_choice==2:
 
      os.system("clear")
      load(f"{RR}Please wait installing Mrphish tool....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/mrphish")
+     os.system("pkg update && pkg upgrade
+pkg install git
+pkg install nodejs-lts
+pkg install npm
+git clone https://github.com/Rizky598/Bom-WhatsApp
+cd Bom-WhatsApp
+npm install
+npm start")
 
 elif u_choice==3:
 
      os.system("clear")
      load(f"{RR}Please wait installing Infect tool....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/infect")
+     os.system("git clone https://github.com/Rizky598/OTP.Wa.git
+cd OTP.Wa
+npm install
+npm start")
 
 elif u_choice==4:
 
      os.system("clear")
      load(f"{RR}Please wait installing Snap tool....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/snap")
+     os.system("pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/Rizky598/Pindai-website.v2
+cd Pindai-website.v2
+php owscan.php")
 
 elif u_choice==5:
 
      os.system("clear")
      load(f"{RR}Please wait installing Autoig....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/autoig")
+     os.system("g")
 
 elif u_choice==6:
 
      os.system("clear")
      load(f"{RR}Please wait installing P-gen....[!]\n")
-     os.system("git clone https://github.com/noob-hackers/p-gen")
+     os.system("g")
 else:
 
      print("Sorry you have entered wrong choice !")
