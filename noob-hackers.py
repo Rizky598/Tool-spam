@@ -18,7 +18,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv php.mp3")
+os.system("mpv ssstik.io_1745081225462.mp3.mp3")
 os.system("clear")
 def load(word):
         for char in word:
