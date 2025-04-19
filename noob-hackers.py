@@ -32,8 +32,6 @@ load(f"{RR} ⣧°⣀⡾⢷⣀°⣼\n")
 load(f"{RR}  ⡏⢽⢴⡦⡯⢹ \n")
 load(f"{RR}  ⠙⢮⣙⣋⡵⠋/n/n")
 
-print(f"{GG}@Rizky.088")
-print(f"{GG} hubungi aku kalau ada masalah Bray\n\n")
 
 print(f"{GG}[1]:WhatsApp spam")
 print(f"{WW} :spam OTP WhatsApp🎯\n")
@@ -61,44 +59,25 @@ if u_choice==1:
 
      os.system("clear")
      load(f"{RR}Please wait installing Vanish tool....[!]\n")
-     os.system("pkg update && pkg upgrade -y
-pkg install git -y
-pkg instal php -y
-git clone https://github.com/Rizky598/Spam-WhatsApp
-cd Spam-WhatsApp
-php pam.php")
+     os.system("pkg update && pkg upgrade -y/pkg install git -y/pkg instal php -y/git clone https://github.com/Rizky598/Spam-WhatsApp/cd Spam-WhatsApp/php pam.php")
 
 elif u_choice==2:
 
      os.system("clear")
      load(f"{RR}Please wait installing Mrphish tool....[!]\n")
-     os.system("pkg update && pkg upgrade
-pkg install git
-pkg install nodejs-lts
-pkg install npm
-git clone https://github.com/Rizky598/Bom-WhatsApp
-cd Bom-WhatsApp
-npm install
-npm start")
+     os.system("pkg update && pkg upgrade/pkg install git/pkg install nodejs-lts/pkg install npm/git clone https://github.com/Rizky598/Bom-WhatsApp/cd Bom-WhatsApp/npm install/npm start")
 
 elif u_choice==3:
 
      os.system("clear")
      load(f"{RR}Please wait installing Infect tool....[!]\n")
-     os.system("git clone https://github.com/Rizky598/OTP.Wa.git
-cd OTP.Wa
-npm install
-npm start")
+     os.system("git clone https://github.com/Rizky598/OTP.Wa.git/cd OTP.Wa/npm install/npm start")
 
 elif u_choice==4:
 
      os.system("clear")
      load(f"{RR}Please wait installing Snap tool....[!]\n")
-     os.system("pkg update && pkg upgrade
-pkg install git
-git clone https://github.com/Rizky598/Pindai-website.v2
-cd Pindai-website.v2
-php owscan.php")
+     os.system("pkg update && pkg upgrade/pkg install git/git clone https://github.com/Rizky598/Pindai-website.v2/cd Pindai-website.v2/php owscan.php")
 
 elif u_choice==5:
 
